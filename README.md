@@ -1,8 +1,12 @@
 The XADMaster framework for uncompressing archive files in various formats. 
 
-* The original source files can found at the developer's website <http://unarchiver.c3.cx/unarchiver>. XAMaster is released under the GNU LGPL.
+* The original source files can found at the developer's website (<http://unarchiver.c3.cx/unarchiver>). 
 
-* The framework is mirrored here in preparation for supporting Simple Comic development on GitHub <https://github.com/arauchfuss/Simple-Comic>. 
+* XAMaster is released under the GNU LGPL.
+
+* The UniversalDetector framework is included as a dependency for XADMaster.
+
+* The framework is mirrored here in preparation for supporting Simple Comic development on GitHub (<https://github.com/arauchfuss/Simple-Comic>). 
 
 * The intent is to keep this master branch of this mirror up to date with The Unarchiver site.
 
