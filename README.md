@@ -6,7 +6,11 @@ The XADMaster framework for uncompressing archive files in various formats.
 
 * The UniversalDetector framework is included as a dependency for XADMaster.
 
-* The framework is mirrored here in preparation for supporting Simple Comic development on GitHub (<https://github.com/arauchfuss/Simple-Comic>). 
+* The framework is mirrored here in preparation for supporting other projects on GitHub (<https://github.com/arauchfuss/Simple-Comic>). 
+
+* XADMaster first appeared in v2.0 of The Unarchiver.
+
+* This mirror archives every released version of the XADMaster and UniversalDetector frameworks from 2.0 on to enable diff of the versions.
 
 * The intent is to keep this master branch of this mirror up to date with The Unarchiver site.
 
